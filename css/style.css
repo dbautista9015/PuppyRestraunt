@@ -13,8 +13,7 @@
 }
 body{
     background-image: url("../images/bgtexture.jpg");
-    padding-right: 0%;
-    padding-left: 5%;
+    
 }
 
 .ourteambox{
@@ -65,11 +64,7 @@ height: 92px;
     background-image: url(../images/cateringHero.jpg);
     height: 500px;
 }
-body{  
-    background-image: url("../images/bgtexture.jpg");
-    padding-right: 0%;
-    padding-left: 5%;
-}
+
 
 .ourteambox{
     margin-top: 4rem;
